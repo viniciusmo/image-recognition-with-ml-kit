@@ -40,6 +40,11 @@ class ImageRecognitionActivity : AppCompatActivity(), PermissionListener {
                 }
     }
 
+    override fun onNavigateUp(): Boolean {
+        onBackPressed()
+        return true
+    }
+
     private fun doImageRecognition(bitmap: Bitmap) {
         val image = FirebaseVisionImage.fromBitmap(bitmap)
         val detector = FirebaseVision
