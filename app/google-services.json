@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "888399971484",
+    "firebase_url": "https://labeling-images.firebaseio.com",
+    "project_id": "labeling-images",
+    "storage_bucket": "labeling-images.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888399971484:android:52f6bb5bd683e896",
+        "android_client_info": {
+          "package_name": "com.github.viniciusmo.imagerecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888399971484-0ejt43njek8uf5g7tpbujpnq1fvb44i7.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "888399971484-0ejt43njek8uf5g7tpbujpnq1fvb44i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNicI0RZmciSYK8YRLRJ3az4TW9oAHZjA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
